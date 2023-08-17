@@ -1,0 +1,4 @@
+﻿  FPS.cpp
+D:\Programming\C\FPS\FPS\FPS.cpp(141,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programming\C\FPS\FPS\FPS.cpp(150,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FPS.vcxproj -> D:\Programming\C\FPS\FPS\Debug\FPS.exe
